@@ -1,4 +1,4 @@
 # git-course-
 for ali git course,
 
-## project notes
+## project Notes
